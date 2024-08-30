@@ -1,4 +1,4 @@
-<h1 align="left">Adrian Miguel S Barbosa</h1>
+<h1 align="left">Adrian Miguel S. Barbosa</h1>
 
 ###
 
