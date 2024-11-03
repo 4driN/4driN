@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Software Development Student |  <br>Self-Taught Game Developer, Concept Artist, Writer and Creative Projects Leader<br> - 🇧🇷</h3>
+<h3 align="left">Systems Development Student by SENAI (Brazilian National Industrial Training Service) |  <br>Self-Taught Game Developer and Artist<br> - 🇧🇷</h3>
 
 ###
 
