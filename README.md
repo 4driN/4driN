@@ -59,7 +59,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.postimg.cc/mkrjPf3G/image.png"  />
+<img align="left" height="150" style="border-radius: 20px" src="https://i.postimg.cc/mkrjPf3G/image.png"  />
 
 ###
 
