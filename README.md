@@ -1,94 +1,79 @@
-<h1 align="left">Adrian Miguel S. Barbosa</h1>
+<img style="width: 100%; height: auto;" src="https://i.postimg.cc/WbVBfFMR/banner.png">
 
-###
-
-<img align="right" height="100" src="https://i.postimg.cc/3xM0zFDj/Sharpgear-Group-Logo.png"  />
-
-###
-
-<h3 align="left">Systems Development Student by SENAI (Brazilian National Industrial Training Service) |  <br>Self-Taught Game Developer and Artist<br> - 🇧🇷</h3>
-
-###
-
-<div align="left">
-  <a href="https://linktr.ee/4driN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-m-barbosa-b84b06271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+<div>
+  <h1>Adrian M Barbosa</h1>
+  <h3>
+    Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer | Self-Taught Game Developer and Artist | Founder of Sharpgear Team.
+  </h3>
 </div>
 
-###
+
 
 <h2 align="left">🦾 Skills</h2>
 
-###
-
 <div align="left">
-  <img src="https://i.postimg.cc/rmB6Ldy0/gmlogo.png" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://i.postimg.cc/Xqf025G8/gmbetalogo.png" height="40" alt="gamemakerstudiobeta logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://i.postimg.cc/v8fM8JqV/kritaicon.png" height="40" alt="krita logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
-
-<h2 align="left">📋 Latest Project:</h2>
-
-###
-
-<p align="left">"HELL-O WORLD: MULTIPLAYER PROTOTYPE" is a "competitive" multiplayer game made in Game Maker Studio Beta and uses the experimental Rollback System in Gx.Games. The game was initially developed in less than 2 weeks during free time from technical systems development.<br>You can check in my linktree above.</p>
-
-###
-
-<img align="left" height="200" src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png"  />
-
-###
-
-<img align="left" height="150" style="border-radius: 20px" src="https://i.postimg.cc/mkrjPf3G/image.png"  />
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/zXnRZPYz/H0W-imgs.gif"  />
+  <a href="https://github.com/AdriNzzz" color= #000000>
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
+<div align = "left">
+  <a href="">
+    <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
+  </a>
 
-<h1 align="left"></h1>
+  <img width = "20" align= "center"/>
 
-###
+  <div align="left" >
+    I'm Adrian Miguel, a Systems, Games, and Digital Art Developer.Leader and founder of Sharpgear Team.
+    <br>
+    I work in different areas of development, with skills in Front-end, Back-end, and Game Development, a field in which I have extensive self-taught experience.
+    <br>
+    Since I was young, I've had a strong interest in programming -- I started by creating small mods, and over time, I evolved into developing my own original games, which I continue to actively work on to this day.
+  </div>
 
-<h2 align="left">Other Projects:</h2>
+  <div align = "center">
+    <a href="https://github.com/SharpgearTeam">
+      <img src="https://i.postimg.cc/NfGrLt5J/SG.png" width = "12%"/>
+    </a>
+    <img width = "10" align= "center"/>
+    <a href="https://gx.games/pt-br/games/mzuh34/hell-o-world/">
+      <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "12%"/>
+    </a>
+    <img width = "10" align= "center"/>
+    <a href="https://github.com/AdriNzzz">
+      <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "12%"/>
+    </a>
+    <img width = "10" align= "center"/>
+    <a href="https://github.com/AdriNzzz">
+    <img src="https://i.postimg.cc/ZYB844vx/DTRPG.png" width = "12%"/>
+    </a>
+  </div>
 
-###
+  <hr>
 
-<img align="left" height="180" src="https://i.postimg.cc/3xM0zFDj/Sharpgear-Group-Logo.png"  />
-
-###
-
-<img align="right" height="200" src="https://i.postimg.cc/j56G4n5T/dt.webp"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/vBRszdtr/snl-png.png"  />
 </div>
-
-###
