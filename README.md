@@ -13,29 +13,34 @@
 
 <div align="left">
   <a href="https://github.com/AdriNzzz" color= #000000>
-    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+     <img src="https://skillicons.dev/icons?i=vue" height="50" alt="confluence logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="confluence logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="50" alt="gamemakerstudio logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+    <img src="https://skillicons.dev/icons?i=godot" height="50" alt="react logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="javascript logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
     <img width="12" />
-    <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
+    <img width="12" />
+
+    
   </a>
 </div>
 
